@@ -1,0 +1,14 @@
+{
+    "name": "javascript-template",
+    "version": "0.0.1",
+    "private": true,
+    "main" : "src/index.js",
+    "scripts": {
+        "build" : "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev" : "tsc --watch"
+    },
+    "dependencies": {
+      "typescript" :"^3.3.3333" 
+       }
+  }
