@@ -7,6 +7,9 @@
  > create-project 
  
  Options:
+ 
 --git: This will run git init to instantiate a new git project
+
 --install: This will automatically install all the dependencies for the project
+
 --yes: This will skip all prompts and go for default options
